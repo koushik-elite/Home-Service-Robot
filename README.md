@@ -80,7 +80,7 @@ catkin_init_workspace
 clone repository:
 
 ```
-cd ~/catkin_ws/src/
+cd ~/catkin_ws/
 git clone https://github.com/koushik-elite/Home-Service-Robot.git
 ```
 
