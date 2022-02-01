@@ -15,7 +15,7 @@ bool pickup_done = false;
 bool drop_done = false;
 bool wait_pickup = false;
 
-float dist_threshold = 0.9;
+float dist_threshold = 0.77;
 
 void callback_odom(const nav_msgs::Odometry::ConstPtr &msg) 
 {

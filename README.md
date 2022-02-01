@@ -2,7 +2,7 @@
 
 Udacity's Robotics Software Engineer Nanodegree Program
 
-<p align="center"><img src="./images/vid_homeservice_rviz_window.gif"></p>
+<p align="center"><img src="./images/vid_homeservice_rviz_window.png"></p>
 
 ### Directory Tree and contents
 
